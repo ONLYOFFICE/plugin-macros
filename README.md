@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-macros. Now it moved to marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Create your own macros, scripts that help you automate your routine tasks and standardize documents. 
